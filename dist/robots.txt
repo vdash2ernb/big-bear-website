@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Draft: each HTML page carries noindex. This is not access control.
